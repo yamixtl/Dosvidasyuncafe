@@ -1,4 +1,4 @@
-## (Nombre del proyecto)  
+## (Dos vidas y un café)  
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -9,9 +9,9 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : Dos vidas y un café
 
-**Autor(es)** ______________
+**Autor(es)** Angie, Carmen, Milena y Yamila.
 
 **Resumen** : _________
 
