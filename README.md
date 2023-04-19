@@ -1,4 +1,4 @@
-## (Dos vidas y un café)  
+## Dos vidas y un café  
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
