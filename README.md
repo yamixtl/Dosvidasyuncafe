@@ -32,18 +32,18 @@ El producto creado es una narrativa gamificada e interactiva en la que el usuari
 **Medios**: 
 
 Ya creados:
-* Página web (donde alojar el cortometraje y la narrativa interactiva)
-* Instagram (lanzar campañas con hashtags y creación de fandom)
-* Charlas divulgativas (concienciación del Alzhéimer y cómo lidiar con el luto)
-* Exposición (RE)VIVE (una exposición donde colgar fotos y crear un reportaje más adelante)
-* Cortometraje: https://drive.google.com/file/d/1UD7itxyyE-bkTvtnbyvRi_1ROId3y5Ai/view (cortometraje)
-
-Los que se lanzarán en un futuro:
 * Github: (https://github.com/yamixtl/Dosvidasyuncafe/edit/master/README.md) 
 * Milanote: https://app.milanote.com/1PCuiB1fLAfbat/1-dos-vidas-y-un-cafe?p=fVCzKgTw2WW 
 * Protopie: https://cloud.protopie.io/p/a944e13f2798c98c1323daec 
 * Arcweave: https://arcweave.com/app/project/2g6deGw08j 
 
+
+Los que se lanzarán en un futuro:
+* Página web (donde alojar el cortometraje y la narrativa interactiva)
+* Instagram (lanzar campañas con hashtags y creación de fandom)
+* Charlas divulgativas (concienciación del Alzhéimer y cómo lidiar con el luto)
+* Exposición (RE)VIVE (una exposición donde colgar fotos y crear un reportaje más adelante)
+* Cortometraje: https://drive.google.com/file/d/1UD7itxyyE-bkTvtnbyvRi_1ROId3y5Ai/view (cortometraje)
 
 
 
