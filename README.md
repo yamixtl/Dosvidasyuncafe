@@ -13,7 +13,12 @@ Univesidad de Granada
 
 **Resumen** : Dos vidas y un café es un proyecto transmedia que trata la temática del recuerdo de las personas que ya no forman parte de nuestras vidas.
 El producto creado es una narrativa gamificada e interactiva en la que el usuario puede navegar para conocer la historia de nuestros tres personajes principales, teniendo distintas ramas de la historia que podrá descubrir y jugar cuantas veces quiera. La historia transcurre en una cafetería, donde Lucas, un camarero es el que recibe al usuario. Allí podremos decidir si queremos seguir hablando con él o hablar con el anciano que frecuenta el lugar, teniendo dichas vías rutas de la historia diferentes, pero ambas igual de interesantes. Todos los caminos llevan a la misma idea final, que no es más que volver a recordar como todos hemos perdido a alguien en nuestras vidas, pero que a pesar de ello, dichas personas permanecerán vivas gracias a nuestras memorias.
-**logotipo** :  ________
+
+
+
+**logotipo** :  ![Logo para Bodas con Nombre de los Novios Circular Romántico Elegante Blanco y Negro](https://user-images.githubusercontent.com/130590655/233229355-01720041-93b1-4030-88ee-e4578c03fa8d.png)
+
+
 
 **Slogan**: "Lo importante no es que haya acabado, sino que lo hayamos vivido" & "Las personas siempre vivirán en nuestros recuerdos"
 
