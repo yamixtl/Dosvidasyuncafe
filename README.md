@@ -43,7 +43,7 @@ Los que se lanzarán en un futuro:
 * Instagram (lanzar campañas con hashtags y creación de fandom)
 * Charlas divulgativas (concienciación del Alzhéimer y cómo lidiar con el luto)
 * Exposición (RE)VIVE (una exposición donde colgar fotos y crear un reportaje más adelante)
-* Cortometraje: https://drive.google.com/file/d/1UD7itxyyE-bkTvtnbyvRi_1ROId3y5Ai/view (cortometraje)
+* Cortometraje: https://drive.google.com/file/d/1UD7itxyyE-bkTvtnbyvRi_1ROId3y5Ai/view
 
 
 
