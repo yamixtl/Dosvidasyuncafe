@@ -9,14 +9,15 @@ Univesidad de Granada
 
 **Titulo** : Dos vidas y un café
 
-**Autor(es)** Angie, Carmen, Milena y Yamila.
+**Autor(es)** Angie Alzate, Carmen Aulló, Milena Diaz y Yamila Tolosa.
 
 **Resumen** : Dos vidas y un café es un proyecto transmedia que trata la temática del recuerdo de las personas que ya no forman parte de nuestras vidas.
 El producto creado es una narrativa gamificada e interactiva en la que el usuario puede navegar para conocer la historia de nuestros tres personajes principales, teniendo distintas ramas de la historia que podrá descubrir y jugar cuantas veces quiera. La historia transcurre en una cafetería, donde Lucas, un camarero es el que recibe al usuario. Allí podremos decidir si queremos seguir hablando con él o hablar con Pepe, un cliente que frecuenta el lugar, teniendo dichas vías rutas de la historia diferentes, pero ambas igual de interesantes. Todos los caminos llevan a la misma idea final, que no es más que volver a recordar como todos hemos perdido a alguien en nuestras vidas, pero que a pesar de ello, dichas personas permanecerán vivas gracias a nuestras memorias.
 
 
 
-**logotipo** :  ![Logo para Bodas con Nombre de los Novios Circular Romántico Elegante Blanco y Negro](https://user-images.githubusercontent.com/130590655/233229355-01720041-93b1-4030-88ee-e4578c03fa8d.png)
+**Logotipo** : 
+![Logo para Bodas con Nombre de los Novios Circular Romántico Elegante Blanco y Negro](https://user-images.githubusercontent.com/130590655/233229355-01720041-93b1-4030-88ee-e4578c03fa8d.png)
 
 
 
@@ -24,22 +25,25 @@ El producto creado es una narrativa gamificada e interactiva en la que el usuari
 
 **Hashtag**: #dosvidasyuncafe & #yovivoporlosdos
 
-**Licencia**: Attribution 4.0 International (CC BY 4.0) (https://creativecommons.org/licenses/by/4.0/)
+**Licencia**: Reconocimiento- NoComercial- CompartirIgual 3.0 España (CC BY-NC-SA 3.0 ES)
 
 **Fecha** : 2023
 
-**Medios** (donde se tiene presencia): 
+**Medios**: 
 
+Ya creados:
 * Página web (donde alojar el cortometraje y la narrativa interactiva)
 * Instagram (lanzar campañas con hashtags y creación de fandom)
 * Charlas divulgativas (concienciación del Alzhéimer y cómo lidiar con el luto)
 * Exposición (RE)VIVE (una exposición donde colgar fotos y crear un reportaje más adelante)
+* Cortometraje: https://drive.google.com/file/d/1UD7itxyyE-bkTvtnbyvRi_1ROId3y5Ai/view (cortometraje)
 
-* (https://github.com/yamixtl/Dosvidasyuncafe/edit/master/README.md) (github url) 
-* https://app.milanote.com/1PCuiB1fLAfbat/1-dos-vidas-y-un-cafe?p=fVCzKgTw2WW (milanote)
-* https://cloud.protopie.io/p/a944e13f2798c98c1323daec (protopie)
-* https://arcweave.com/app/project/2g6deGw08j (arcweave)
-* https://drive.google.com/file/d/1UD7itxyyE-bkTvtnbyvRi_1ROId3y5Ai/view (cortometraje)
+Los que se lanzarán en un futuro:
+* Github: (https://github.com/yamixtl/Dosvidasyuncafe/edit/master/README.md) 
+* Milanote: https://app.milanote.com/1PCuiB1fLAfbat/1-dos-vidas-y-un-cafe?p=fVCzKgTw2WW 
+* Protopie: https://cloud.protopie.io/p/a944e13f2798c98c1323daec 
+* Arcweave: https://arcweave.com/app/project/2g6deGw08j 
+
 
 
 
@@ -51,7 +55,7 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 ### Etapa 1: Ideación de proyecto 
 
-Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
+Actividades realizadas mediante Milanote https://app.milanote.com/1PCuiB1fLAfbat/1-dos-vidas-y-un-cafe?p=fVCzKgTw2WW 
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto 
 
@@ -104,7 +108,7 @@ Para evaluar nuestra propuesta hay varias vías posibles:
 
 * Grado de consecución del proyecto: El proyecto estaría en la fase de producción, para ser lanzado en unos meses.
 
-* Problemas identificados: Respecto a los problemas técnicos, al principio fue complicado utilizar arcweave, ya que no funcionaba en todos los ordenadores, por lo que tuvimos que hacer el borrador en un único ordenador. Además, planteamos crear los personajes con la aplicación de Storyboard, pero al no tener todas las funciones de la aplicación, decidimos crear imágenes estáticas por otras vías y usar la aplicación de Protopie para crear el prototipo. La idea inicial era crear algo parecido a "The Boat", pero vimos que no se adaptaba a nuestra idea y nos decantamos por una novela visual.
+* Problemas identificados: Respecto a los problemas técnicos, al principio fue complicado utilizar arcweave, ya que no funcionaba en todos los ordenadores, por lo que tuvimos que hacer el borrador en un único ordenador. Además, planteamos crear los personajes con la aplicación de Storyboard, pero al no tener todas las funciones de la aplicación, decidimos crear imágenes estáticas por otras vías y usar la aplicación de Protopie para crear el prototipo. La idea inicial era crear algo parecido a "The Boat", pero vimos que no se adaptaba a nuestra idea, además de que era un proyecto demasiado ambicioso para el poco tiempo que teníamos de realización en las sesiones de clase, por lo que nos decantamos por una novela visual.
 
 * Propuestas de mejora: Si siguieramos haciendo el proyecto, podríamos alargar el juego y crear otras ramificaciones para que por ejemplo, tuviera finales diferentes y no siempre el mismo. Además, valorando el uso de la realidad virtual, podríamos crear una experiencia inmersiva en una cafetería real y que los usuarios pudieran ver a los personajes, explicando la historia enfrente de ellos.
 * Posible interés del proyecto: Pensamos que hay varias entidades que podrían estar interesadas. Tal vez los colegios y/o institutos, para promover todas las ideas que explicábamos anteriormente a los jóvenes, así como asociaciones o entidades relacionadas con la salud, para concienciar y explicar un poco más sobre el Alzhéimer. 
