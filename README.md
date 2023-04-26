@@ -34,7 +34,7 @@ El producto creado es una narrativa gamificada e interactiva en la que el usuari
 Ya creados:
 * Github: (https://github.com/yamixtl/Dosvidasyuncafe/edit/master/README.md) 
 * Milanote: https://app.milanote.com/1PCuiB1fLAfbat/1-dos-vidas-y-un-cafe?p=fVCzKgTw2WW 
-* Protopie: https://cloud.protopie.io/p/a944e13f2798c98c1323daec 
+* Protopie: https://cloud.protopie.io/p/a944e13f2798c98c1323daec
 * Arcweave: https://arcweave.com/app/project/2g6deGw08j 
 
 
@@ -89,7 +89,7 @@ Todo lo desarrollado gira alrededor de una narrativa transmedia. El producto pri
 
 * Cortometraje creado con Adobe Premiere: https://drive.google.com/file/d/1UD7itxyyE-bkTvtnbyvRi_1ROId3y5Ai/view
 
-* Narrativa interactiva creada con Protopie: https://cloud.protopie.io/p/a944e13f2798c98c1323daec 
+* Narrativa interactiva creada con Protopie: https://cloud.protopie.io/p/a944e13f2798c98c1323daec
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
